@@ -7,7 +7,6 @@ C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\h
 C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.AssemblyInfoInputs.cache
 C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.AssemblyInfo.cs
 C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.csproj.CoreCompileInputs.cache
-C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.sourcelink.json
 C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.dll
 C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\refint\hata_yonetimi.dll
 C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.pdb

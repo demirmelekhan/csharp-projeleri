@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("degiskenler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab0b5f307d05abf2572a9fb52b33d2c86e45ac82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cf08cc36e0011c1dc1b8d72fcaddb01e9f6c238")]
 [assembly: System.Reflection.AssemblyProductAttribute("degiskenler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("degiskenler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
